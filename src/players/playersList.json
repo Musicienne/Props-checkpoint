@@ -1,0 +1,57 @@
+{
+    "playerList" : [
+ {
+    "name" : "Lionel Messi",
+    "team" : "Argentina national football team, Inter Miami",
+    "nationality" : "Argentine",
+    "jerseyNumber" : "10",
+    "age" : "36 years old",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8ymAHyMAmtPT4UoYP9wBC3pJLeXJTgg3bJqchJgSyg&s"
+       
+    },
+
+ {
+    "name" : "Erling Haaland",
+    "team" : "Manchester City, Norway national football team",
+    "nationality" : "Norwegian",
+    "jerseyNumber" : "9",
+    "age" : "23 years old",
+    "img" : "https://cdn-sfo.socy.cloud/PRAS/v1/_20/p/202303/upload/PRAS/uf_16788785694KoOHBrCq7rr63TdyzAQnHGMzP.jpg"
+        
+    },
+
+
+ {
+    "name" : "Phil Foden",
+    "team" : "Manchester City, England national football team",
+    "nationality" : "England",
+    "jerseyNumber" : "47, 20",
+    "age" : "23 years old",
+    "img" : "https://ichef.bbci.co.uk/news/2048/cpsprodpb/85aa/live/47176430-b058-11ee-beb5-e1400df560f2.jpg"
+    
+    },
+
+     
+ {    
+    "name" : "Kevin De Bruyne",
+    "team" : "Manchester City, Belgium national football team ",
+    "nationality" : "Belgium footballer",
+    "jerseyNumber" : "17, 7",
+    "age" : "32 years old",
+    "img" : "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2024/01/13/3861096-78454848-2560-1440.jpg"
+   
+    },
+
+
+ {
+    "name" : "Robert Lewandowski",
+    "team" : "FC Barcelona, Poland national football team",
+    "nationality" : "Polish footballer",
+    "jerseyNumber" : "9",
+    "age" : "35 years old",
+    "img" : "https://s.hs-data.com/bilder/spieler/gross/119750.jpg"
+  
+    }
+   ]
+ }
+ 

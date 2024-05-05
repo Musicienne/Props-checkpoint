@@ -1,0 +1,79 @@
+.card-container{
+display: flex;
+background: red !important;
+}
+
+.card {
+  display: flex;
+  text-align: center;
+  flex-direction: column; 
+  margin: auto;
+  justify-content: space-between;
+  width: 18%; 
+  border: 1px solid #1a1818; 
+  border-radius: 8px;
+  padding: 20px; 
+  box-sizing: border-box; 
+  background: linear-gradient(45deg,#333, #34b1eb,#9fa6a8 , #34b1eb, #333);
+  transition: transform 0.2s ease; /* Transition fluide lors du survol */
+ margin-bottom: 20px;
+}
+
+.card:hover {
+  transform: translateY(-5px); /* Effet de translation vers le haut au survol */
+  
+}
+
+.card img {
+  width: 100%; 
+  border-radius: 8px; 
+  margin-bottom: 10px; /* Espacement en bas de l'image */
+}
+
+.playerList div {
+  margin-bottom: 10px; /* Espacement entre les éléments de la liste de joueurs */
+ 
+}
+
+h5 {
+  margin: 0; 
+  font-size: 14px;
+  color: #333; /* Couleur du texte */
+}
+
+body {
+  background-color: #5fccee; /* Couleur de départ */
+  transition: background-color 1s ease;  
+}
+
+
+@keyframes gradientAnimation {
+  0% {
+    background-color: #31719c; 
+  }
+  50% {
+    background-color: #a4c7e6; 
+  }
+  100% {
+    background-color: #379cb6; 
+  }
+}
+
+body {
+  animation: gradientAnimation 7s infinite; /* Utilisation des keyframes pour l'animation */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
